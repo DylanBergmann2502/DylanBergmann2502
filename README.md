@@ -1,6 +1,6 @@
 ### Hi there 🐋 My Name is Dylan Bergmann(he), I'm a Backend Developer 🐋, and Welcome to my Github Page 🌲
 #### Programming Languages and Databases That I Love:
-[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,js,elixir,postgres,mysql,redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,js,go,elixir,postgres,mysql,redis&theme=light)](https://skillicons.dev)
 #### Frameworks That I Use: 
 [![My Skills](https://skillicons.dev/icons?i=django,laravel,rails,vue,react&theme=light)](https://skillicons.dev)
 <!--
