@@ -1,11 +1,11 @@
 ### 🐋 Hi there, I'm Dylan Bergmann 🐋 
 ### 🌲 Welcome to my Github Page 🌲
 #### Programming Languages that I love:
-[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,js,elixir&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,js&theme=light)](https://skillicons.dev)
 #### Web Frameworks that I use: 
-[![My Skills](https://skillicons.dev/icons?i=django,laravel,rails,vue,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,laravel,rails,vue&theme=light)](https://skillicons.dev)
 #### Databases that I absolutely adore:
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,cassandra,redis&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=light)](https://skillicons.dev)
 
 <!--
 **DylanBergmann2502/DylanBergmann2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
