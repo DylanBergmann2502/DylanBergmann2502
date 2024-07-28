@@ -1,7 +1,7 @@
 ### 🐋 Hi there, I'm Dylan Bergmann 🐋 
 ### 🌲 Welcome to my Github Page 🌲
 #### Programming Languages that I love:
-[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,go&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,ruby,go,elixir&theme=light)](https://skillicons.dev)
 #### Web Frameworks that I use: 
 [![My Skills](https://skillicons.dev/icons?i=django,laravel,rails,vue&theme=light)](https://skillicons.dev)
 #### Databases that I absolutely adore:
