@@ -5,7 +5,7 @@
 #### Web Frameworks that I Use: 
 [![My Skills](https://skillicons.dev/icons?i=django,laravel,rails,vue&theme=light)](https://skillicons.dev)
 #### Databases that I absolutely Adore:
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongodb,cassandra&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 
 <!--
 **DylanBergmann2502/DylanBergmann2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
